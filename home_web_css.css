@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: start;
+    color: blue;
+}
+button{
+    color:black;
+    background-color:crimson; 
+    border: none;
+    border-radius: 6px;
+    padding: 5px;
+    
+}
